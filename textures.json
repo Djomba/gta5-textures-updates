@@ -4,41 +4,47 @@
     "Name": "AK-47 HD Texture Pack",
     "DriveLink": "https://drive.google.com/file/d/YOUR_FILE_ID/view?usp=sharing",
     "ImageUrl": "https://example.com/ak47-preview.jpg",
-    "FileSize": "45 MB"
+    "FileSize": "45 MB",
+    "Description": ""
   },
   {
     "Category": "weapons",
     "Name": "M4A1 Enhanced Texture",
     "DriveLink": "https://drive.google.com/file/d/YOUR_FILE_ID/view?usp=sharing",
     "ImageUrl": "https://example.com/m4a1-preview.jpg",
-    "FileSize": "38 MB"
+    "FileSize": "38 MB",
+    "Description": ""
   },
   {
     "Category": "vehicles",
     "Name": "Super Car HD Pack",
     "DriveLink": "https://drive.google.com/file/d/YOUR_FILE_ID/view?usp=sharing",
     "ImageUrl": "https://example.com/car-preview.jpg",
-    "FileSize": "120 MB"
+    "FileSize": "120 MB",
+    "Description": "привеет"
   },
   {
     "Category": "vegetation",
     "Name": "Realistic Trees Pack",
     "DriveLink": "https://drive.google.com/file/d/YOUR_FILE_ID/view?usp=sharing",
     "ImageUrl": "https://example.com/trees-preview.jpg",
-    "FileSize": "85 MB"
+    "FileSize": "85 MB",
+    "Description": ""
   },
   {
     "Category": "maps",
     "Name": "Enhanced City Textures",
     "DriveLink": "https://drive.google.com/file/d/YOUR_FILE_ID/view?usp=sharing",
     "ImageUrl": "https://example.com/city-preview.jpg",
-    "FileSize": "200 MB"
+    "FileSize": "200 MB",
+    "Description": ""
   },
   {
     "Category": "minimap",
     "Name": "HD Minimap Pack",
     "DriveLink": "https://drive.google.com/file/d/YOUR_FILE_ID/view?usp=sharing",
     "ImageUrl": "https://example.com/minimap-preview.jpg",
-    "FileSize": "15 MB"
+    "FileSize": "15 MB",
+    "Description": ""
   }
 ]
